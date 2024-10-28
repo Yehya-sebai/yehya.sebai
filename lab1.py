@@ -1,5 +1,5 @@
 def draw_inverted_v():
-    """Draws an inverted V without using libraries."""
+   
 
     
     width = 5
